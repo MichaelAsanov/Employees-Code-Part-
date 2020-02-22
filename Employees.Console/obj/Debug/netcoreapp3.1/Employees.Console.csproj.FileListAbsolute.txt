@@ -1,2 +1,10 @@
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.AssemblyInfoInputs.cache
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.AssemblyInfo.cs
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.exe
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.deps.json
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.runtimeconfig.json
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.runtimeconfig.dev.json
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.pdb

@@ -1,7 +1,7 @@
 ﻿namespace Employees.Repo
 {
-    public interface IRepository
+    public interface IRepository<T>
     {
-        
+       
     }
 }

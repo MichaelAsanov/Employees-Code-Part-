@@ -5,3 +5,4 @@ E:\Поиск работы\Росбанк\Задание\Employees\Employees.Mod
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.AssemblyInfo.cs
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.dll
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.csprojAssemblyReference.cache

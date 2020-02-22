@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Employees.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Employees.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Employees.Models/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Models/Employees.Models.csproj",
+      "msbuildProject": "../Employees.Models/Employees.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Employees.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Михаил\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+              "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,3 +6,6 @@ E:\Поиск работы\Росбанк\Задание\Employees\Employees.Rep
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.AssemblyInfo.cs
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.dll
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\bin\Debug\netcoreapp3.1\Employees.Models.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.csproj.CopyComplete
