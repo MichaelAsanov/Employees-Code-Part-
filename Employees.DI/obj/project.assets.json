@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Autofac/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "Employees.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Employees.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Models.dll": {}
+        }
+      },
+      "Employees.Repo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Employees.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Employees.Repo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Repo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/5.1.2": {
+      "sha512": "iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
+      "type": "package",
+      "path": "autofac/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.1.2.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Employees.Models/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Models/Employees.Models.csproj",
+      "msbuildProject": "../Employees.Models/Employees.Models.csproj"
+    },
+    "Employees.Repo/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Repo/Employees.Repo.csproj",
+      "msbuildProject": "../Employees.Repo/Employees.Repo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Autofac >= 5.1.2",
+      "Employees.Repo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Михаил\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj",
+      "projectName": "Employees.DI",
+      "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj",
+      "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+      "outputPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+              "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[5.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
