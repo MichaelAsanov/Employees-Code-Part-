@@ -19,52 +19,45 @@ namespace Employees.Repo
             {
                 new Employee()
                 {
-                    ManagerId = 2,
+                    UserID = 1,
                     FIO = "Михаил",
                     UserDepartment = _departmentRepository.GetByName("IT"),
-                    UserID = 1
+                    ManagerId = 2,
                 },
                 new Employee()
                 {
-                    ManagerId = 3,
+                    UserID = 2,
                     FIO = "Александр",
                     UserDepartment = _departmentRepository.GetByName("IT"),
-                    UserID = 2
+                    ManagerId = 3,
                 },
                 new Employee()
                 {
-                    ManagerId = 7,
+                    UserID = 3,                    
                     FIO = "Максим",
                     UserDepartment = _departmentRepository.GetByName("IT"),
-                    UserID = 3
-                },
-                new Employee()
-                {
                     ManagerId = 7,
-                    FIO = "Максим",
-                    UserDepartment = _departmentRepository.GetByName("IT"),
-                    UserID = 3
                 },
                 new Employee()
                 {
-                    ManagerId = 5,
+                    UserID = 4,
                     FIO = "Ирина",
                     UserDepartment = _departmentRepository.GetByName("Бухгалтерия"),
-                    UserID = 4
+                    ManagerId = 5,
                 },
                 new Employee()
                 {
-                    ManagerId = 6,
+                    UserID = 5,                    
                     FIO = "Светлана",
                     UserDepartment = _departmentRepository.GetByName("Бухгалтерия"),
-                    UserID = 5
+                    ManagerId = 6,
                 },
                 new Employee()
                 {
-                    ManagerId = 7,
+                    UserID = 6,
                     FIO = "Екатерина",
                     UserDepartment = _departmentRepository.GetByName("Бухгалтерия"),
-                    UserID = 6
+                    ManagerId = 7,
                 }
             };
         }

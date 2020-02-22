@@ -8,12 +8,21 @@
     ".NETCoreApp,Version=v3.1": {
       "Employees.Repo.Tests/1.0.0": {
         "dependencies": {
+          "Employees.DI": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.4.0",
           "NUnit3TestAdapter": "3.15.1",
           "NUnit": "3.12.0"
         },
         "runtime": {
           "Employees.Repo.Tests.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
         }
       },
       "Microsoft.CodeCoverage/16.4.0": {
@@ -864,6 +873,28 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "Employees.DI/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.1.2",
+          "Employees.Repo": "1.0.0"
+        },
+        "runtime": {
+          "Employees.DI.dll": {}
+        }
+      },
+      "Employees.Models/1.0.0": {
+        "runtime": {
+          "Employees.Models.dll": {}
+        }
+      },
+      "Employees.Repo/1.0.0": {
+        "dependencies": {
+          "Employees.Models": "1.0.0"
+        },
+        "runtime": {
+          "Employees.Repo.dll": {}
+        }
       }
     }
   },
@@ -872,6 +903,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
+      "path": "autofac/5.1.2",
+      "hashPath": "autofac.5.1.2.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.4.0": {
       "type": "package",
@@ -1313,6 +1351,21 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Employees.DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employees.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employees.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

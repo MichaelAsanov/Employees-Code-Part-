@@ -1,11 +1,99 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Autofac/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "Employees.DI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Autofac": "5.1.2",
+          "Employees.Repo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Employees.DI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.DI.dll": {}
+        }
+      },
+      "Employees.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Employees.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Models.dll": {}
+        }
+      },
+      "Employees.Repo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Employees.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Employees.Repo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Repo.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Autofac/5.1.2": {
+      "sha512": "iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
+      "type": "package",
+      "path": "autofac/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.1.2.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Employees.DI/1.0.0": {
+      "type": "project",
+      "path": "../Employees.DI/Employees.DI.csproj",
+      "msbuildProject": "../Employees.DI/Employees.DI.csproj"
+    },
+    "Employees.Models/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Models/Employees.Models.csproj",
+      "msbuildProject": "../Employees.Models/Employees.Models.csproj"
+    },
+    "Employees.Repo/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Repo/Employees.Repo.csproj",
+      "msbuildProject": "../Employees.Repo/Employees.Repo.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Employees.DI >= 1.0.0",
+      "Employees.Models >= 1.0.0",
+      "Employees.Repo >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Михаил\\.nuget\\packages\\": {},
@@ -37,7 +125,17 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj": {
+              "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj"
+            },
+            "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+              "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj"
+            },
+            "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+              "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

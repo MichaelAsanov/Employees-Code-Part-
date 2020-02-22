@@ -8,3 +8,12 @@ E:\Поиск работы\Росбанк\Задание\Employees\Employees.Con
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Console.pdb
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.dll
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.DI.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Models.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Repo.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.DI.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\bin\Debug\netcoreapp3.1\Employees.Repo.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.csprojAssemblyReference.cache
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Console\obj\Debug\netcoreapp3.1\Employees.Console.csproj.CopyComplete

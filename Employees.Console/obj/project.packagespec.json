@@ -18,7 +18,17 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj": {
+            "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj"
+          },
+          "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+            "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj"
+          },
+          "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+            "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

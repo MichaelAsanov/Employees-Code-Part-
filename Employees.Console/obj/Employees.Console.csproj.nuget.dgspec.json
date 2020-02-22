@@ -30,7 +30,181 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj": {
+                "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj"
+              },
+              "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+                "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj"
+              },
+              "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+                "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj",
+        "projectName": "Employees.DI",
+        "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj",
+        "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+        "outputPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+                "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj",
+        "projectName": "Employees.Models",
+        "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj",
+        "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+        "outputPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj",
+        "projectName": "Employees.Repo",
+        "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\Employees.Repo.csproj",
+        "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+        "outputPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj": {
+                "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.Models\\Employees.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

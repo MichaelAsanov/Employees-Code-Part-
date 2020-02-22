@@ -92,3 +92,10 @@ E:\Поиск работы\Росбанк\Задание\Employees\Employees.Rep
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\obj\Debug\netcoreapp3.1\Employees.Repo.Tests.csproj.CopyComplete
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\obj\Debug\netcoreapp3.1\Employees.Repo.Tests.dll
 E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\obj\Debug\netcoreapp3.1\Employees.Repo.Tests.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.DI.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.Models.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.Repo.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.DI.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo.Tests\bin\Debug\netcoreapp3.1\Employees.Repo.pdb

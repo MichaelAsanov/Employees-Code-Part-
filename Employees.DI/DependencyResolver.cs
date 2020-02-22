@@ -7,7 +7,7 @@ namespace Employees.DI
     {
         private static DependencyResolver _instance;
 
-        public DependencyResolver Instance
+        public static DependencyResolver Instance
         {
             get
             {

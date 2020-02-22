@@ -18,7 +18,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj": {
+            "projectPath": "E:\\Поиск работы\\Росбанк\\Задание\\Employees\\Employees.DI\\Employees.DI.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

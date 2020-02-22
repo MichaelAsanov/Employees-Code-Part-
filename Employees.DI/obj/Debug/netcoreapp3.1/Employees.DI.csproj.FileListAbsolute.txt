@@ -1,0 +1,13 @@
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.DI.deps.json
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.DI.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.DI.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.Models.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.Repo.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.Repo.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.csprojAssemblyReference.cache
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.AssemblyInfoInputs.cache
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.AssemblyInfo.cs
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.csproj.CopyComplete
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.DI\obj\Debug\netcoreapp3.1\Employees.DI.pdb
