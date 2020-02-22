@@ -1,0 +1,8 @@
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\bin\Debug\netcoreapp3.1\Employees.Repo.deps.json
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\bin\Debug\netcoreapp3.1\Employees.Repo.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\bin\Debug\netcoreapp3.1\Employees.Repo.pdb
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.csprojAssemblyReference.cache
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.AssemblyInfoInputs.cache
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.AssemblyInfo.cs
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.dll
+E:\Поиск работы\Росбанк\Задание\Employees\Employees.Repo\obj\Debug\netcoreapp3.1\Employees.Repo.pdb
